@@ -12,4 +12,5 @@ for (let i = 0; cervezas >= 1; i++) {
     console.log(invitados[i]);
 }
 
+var rancho = 15;
 
