@@ -13,4 +13,5 @@ for (let i = 0; cervezas >= 1; i++) {
 }
 
 var rancho = 15;
+var pinocho = 1;
 
